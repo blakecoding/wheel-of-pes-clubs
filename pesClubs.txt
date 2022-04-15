@@ -1,0 +1,1953 @@
+[
+  {
+    "leagueName": "English League",
+    "teams": [
+      {
+        "name": "ARSENAL"
+      },
+      {
+        "name": "ASTON RB *1"
+      },
+      {
+        "name": "BRIGHTON WB *1"
+      },
+      {
+        "name": "BURNLEY RB *1"
+      },
+      {
+        "name": "CHELSEA B *1"
+      },
+      {
+        "name": "CRYSTAL PALACE RB *1"
+      },
+      {
+        "name": "EVERTON B *1"
+      },
+      {
+        "name": "FULHAM W *1"
+      },
+      {
+        "name": "LEEDS W *1"
+      },
+      {
+        "name": "LEICESTER B *1"
+      },
+      {
+        "name": "LIVERPOOL R *1"
+      },
+      {
+        "name": "MANCHESTER B *1"
+      },
+      {
+        "name": "MANCHESTER UNITED"
+      },
+      {
+        "name": "NEWCASTLE WB *1"
+      },
+      {
+        "name": "SHEFFIELD RB *1"
+      },
+      {
+        "name": "SOUTHAMPTON RW *1"
+      },
+      {
+        "name": "TOTTENHAM WB *1"
+      },
+      {
+        "name": "WEST BROMWICH WB *1"
+      },
+      {
+        "name": "WEST HAM RB *1"
+      },
+      {
+        "name": "WOLVERHAMPTON YB *1"
+      }
+    ]
+  },
+  {
+    "leagueName": "English 2nd Division",
+    "teams": [
+      {
+        "name": "BARNSLEY R *1"
+      },
+      {
+        "name": "BIRMINGHAM B *1"
+      },
+      {
+        "name": "BLACKBURN BW *1"
+      },
+      {
+        "name": "BOURNEMOUTH RB *1"
+      },
+      {
+        "name": "BRENTFORD RW *1"
+      },
+      {
+        "name": "BRISTOL R *1"
+      },
+      {
+        "name": "CARDIFF B *1"
+      },
+      {
+        "name": "COVENTRY B *1"
+      },
+      {
+        "name": "DERBY WB *1"
+      },
+      {
+        "name": "HUDDERSFIELD BW *1"
+      },
+      {
+        "name": "LUTON WO *1"
+      },
+      {
+        "name": "MIDDLESBROUGH RW *1"
+      },
+      {
+        "name": "MILLWALL BW *1"
+      },
+      {
+        "name": "NORWICH YG *1"
+      },
+      {
+        "name": "NOTTINGHAM RW *1"
+      },
+      {
+        "name": "PRESTON WB *1"
+      },
+      {
+        "name": "QUEEN'S PARK BW *1"
+      },
+      {
+        "name": "READING BW *1"
+      },
+      {
+        "name": "ROTHERHAM RW *1"
+      },
+      {
+        "name": "SHEFFIELD BW *1"
+      },
+      {
+        "name": "STOKE RW *1"
+      },
+      {
+        "name": "SWANSEA W *1"
+      },
+      {
+        "name": "WATFORD BY *1"
+      },
+      {
+        "name": "WYCOMBE B *1"
+      }
+    ]
+  },
+  {
+    "leagueName": "Spanish League",
+    "teams": [
+      {
+        "name": "BILBAO BR *1"
+      },
+      {
+        "name": "CÁDIZ AA *1"
+      },
+      {
+        "name": "EIBAR AR *1"
+      },
+      {
+        "name": "ELCHE BV *1"
+      },
+      {
+        "name": "FC BARCELONA"
+      },
+      {
+        "name": "GETAFE A *1"
+      },
+      {
+        "name": "GRANADA RB *1"
+      },
+      {
+        "name": "HUESCA RA *1"
+      },
+      {
+        "name": "LEVANTE RA *1"
+      },
+      {
+        "name": "MADRID CHAMARTIN B *1"
+      },
+      {
+        "name": "MADRID ROSAS RB *1"
+      },
+      {
+        "name": "PAMPLONA RA *1"
+      },
+      {
+        "name": "SEVILLA NERVIÓN BR *1"
+      },
+      {
+        "name": "SEVILLA TRIANA VB *1"
+      },
+      {
+        "name": "VALENCIA BN *1"
+      },
+      {
+        "name": "VALLADOLID MB *1"
+      },
+      {
+        "name": "VASCO GIPUZKOA AB *1"
+      },
+      {
+        "name": "VIGO AB *1"
+      },
+      {
+        "name": "VILLARREAL A *1"
+      },
+      {
+        "name": "ÁLAVA AB *1"
+      }
+    ]
+  },
+  {
+    "leagueName": "Spanish 2nd Division",
+    "teams": [
+      {
+        "name": "ALBACETE BN *1"
+      },
+      {
+        "name": "ALCORCÓN AA *1"
+      },
+      {
+        "name": "ALMERÍA RB *1"
+      },
+      {
+        "name": "CARTAGENA NB *1"
+      },
+      {
+        "name": "CASTELLÓN NB *1"
+      },
+      {
+        "name": "FUENLABRADA A *1"
+      },
+      {
+        "name": "GIJÓN RB *1"
+      },
+      {
+        "name": "GIRONA R *1"
+      },
+      {
+        "name": "LAS PALMAS AA *1"
+      },
+      {
+        "name": "LEGANÉS AB *1"
+      },
+      {
+        "name": "LLOBREGAT AB *1"
+      },
+      {
+        "name": "LOGROÑO RB *1"
+      },
+      {
+        "name": "LUGO RB *1"
+      },
+      {
+        "name": "MALLORCA RN *1"
+      },
+      {
+        "name": "MIRANDA DE EBRO RN *1"
+      },
+      {
+        "name": "MÁLAGA AB *1"
+      },
+      {
+        "name": "OVIEDO A *1"
+      },
+      {
+        "name": "PONFERRADA AB *1"
+      },
+      {
+        "name": "SABADELL AB *1"
+      },
+      {
+        "name": "TENERIFE AB *1"
+      },
+      {
+        "name": "VALLECAS BR *1"
+      },
+      {
+        "name": "ZARAGOZA BA *1"
+      }
+    ]
+  },
+  {
+    "leagueName": "Serie A TIM",
+    "teams": [
+      {
+        "name": "ATALANTA"
+      },
+      {
+        "name": "BENEVENTO"
+      },
+      {
+        "name": "BOLOGNA"
+      },
+      {
+        "name": "CAGLIARI"
+      },
+      {
+        "name": "CROTONE"
+      },
+      {
+        "name": "FIORENTINA"
+      },
+      {
+        "name": "GENOA"
+      },
+      {
+        "name": "HELLAS VERONA"
+      },
+      {
+        "name": "JUVENTUS"
+      },
+      {
+        "name": "LAZIO"
+      },
+      {
+        "name": "LOMBARDIA NA *1"
+      },
+      {
+        "name": "MILANO RN *1"
+      },
+      {
+        "name": "NAPOLI"
+      },
+      {
+        "name": "PARMA"
+      },
+      {
+        "name": "ROMA"
+      },
+      {
+        "name": "SAMPDORIA"
+      },
+      {
+        "name": "SASSUOLO"
+      },
+      {
+        "name": "SPEZIA"
+      },
+      {
+        "name": "TORINO"
+      },
+      {
+        "name": "UDINESE"
+      }
+    ]
+  },
+  {
+    "leagueName": "Serie BKT",
+    "teams": [
+      {
+        "name": "ASCOLI"
+      },
+      {
+        "name": "BRESCIA BA *1"
+      },
+      {
+        "name": "CHIEVO"
+      },
+      {
+        "name": "CITTADELLA"
+      },
+      {
+        "name": "COSENZA"
+      },
+      {
+        "name": "CREMONESE"
+      },
+      {
+        "name": "EMPOLI"
+      },
+      {
+        "name": "FROSINONE"
+      },
+      {
+        "name": "LECCE"
+      },
+      {
+        "name": "LR VICENZA"
+      },
+      {
+        "name": "MONZA"
+      },
+      {
+        "name": "PESCARA"
+      },
+      {
+        "name": "PISA"
+      },
+      {
+        "name": "PORDENONE"
+      },
+      {
+        "name": "REGGIANA"
+      },
+      {
+        "name": "REGGINA"
+      },
+      {
+        "name": "SALERNITANA"
+      },
+      {
+        "name": "SPAL"
+      },
+      {
+        "name": "VENEZIA"
+      },
+      {
+        "name": "VIRTUS ENTELLA"
+      }
+    ]
+  },
+  {
+    "leagueName": "Ligue 1 Uber Eats",
+    "teams": [
+      {
+        "name": "ANGERS"
+      },
+      {
+        "name": "BORDEAUX"
+      },
+      {
+        "name": "BREST"
+      },
+      {
+        "name": "DIJON"
+      },
+      {
+        "name": "LILLE"
+      },
+      {
+        "name": "LORIENT"
+      },
+      {
+        "name": "METZ"
+      },
+      {
+        "name": "MONACO"
+      },
+      {
+        "name": "MONTPELLIER"
+      },
+      {
+        "name": "NANTES"
+      },
+      {
+        "name": "NICE"
+      },
+      {
+        "name": "NÎMES"
+      },
+      {
+        "name": "OLYMPIQUE LYONNAIS"
+      },
+      {
+        "name": "OLYMPIQUE MARSEILLE"
+      },
+      {
+        "name": "PSG"
+      },
+      {
+        "name": "RC LENS"
+      },
+      {
+        "name": "RENNES"
+      },
+      {
+        "name": "SAINT-ÉTIENNE"
+      },
+      {
+        "name": "STADE DE REIMS"
+      },
+      {
+        "name": "STRASBOURG"
+      }
+    ]
+  },
+  {
+    "leagueName": "Ligue 2 BKT",
+    "teams": [
+      {
+        "name": "AJACCIO"
+      },
+      {
+        "name": "AMIENS"
+      },
+      {
+        "name": "AUXERRE"
+      },
+      {
+        "name": "CAEN"
+      },
+      {
+        "name": "CHAMBLY"
+      },
+      {
+        "name": "CHÂTEAUROUX"
+      },
+      {
+        "name": "CLERMONT"
+      },
+      {
+        "name": "DUNKERQUE"
+      },
+      {
+        "name": "GRENOBLE FOOT 38"
+      },
+      {
+        "name": "GUINGAMP"
+      },
+      {
+        "name": "LE HAVRE"
+      },
+      {
+        "name": "NANCY"
+      },
+      {
+        "name": "NIORT"
+      },
+      {
+        "name": "PARIS"
+      },
+      {
+        "name": "PAU"
+      },
+      {
+        "name": "RODEZ"
+      },
+      {
+        "name": "SOCHAUX"
+      },
+      {
+        "name": "TOULOUSE"
+      },
+      {
+        "name": "TROYES"
+      },
+      {
+        "name": "VALENCIENNES"
+      }
+    ]
+  },
+  {
+    "leagueName": "Liga NOS",
+    "teams": [
+      {
+        "name": "BELENENSES"
+      },
+      {
+        "name": "BENFICA"
+      },
+      {
+        "name": "BOAVISTA"
+      },
+      {
+        "name": "FAMALICÃO"
+      },
+      {
+        "name": "FARENSE"
+      },
+      {
+        "name": "GIL VICENTE"
+      },
+      {
+        "name": "MADEIRA BP *1"
+      },
+      {
+        "name": "MARÍTIMO"
+      },
+      {
+        "name": "MOREIRENSE"
+      },
+      {
+        "name": "PAÇOS DE FERREIRA"
+      },
+      {
+        "name": "PORTIMONENSE"
+      },
+      {
+        "name": "PORTO"
+      },
+      {
+        "name": "RIO AVE"
+      },
+      {
+        "name": "SANTA CLARA"
+      },
+      {
+        "name": "SPORTING BRAGA"
+      },
+      {
+        "name": "SPORTING CP"
+      },
+      {
+        "name": "TONDELA"
+      },
+      {
+        "name": "VITÓRIA GUIMARÃES"
+      }
+    ]
+  },
+  {
+    "leagueName": "Süper Lig",
+    "teams": [
+      {
+        "name": "ALANYASPOR"
+      },
+      {
+        "name": "ANKARAGÜCÜ"
+      },
+      {
+        "name": "ANTALYASPOR"
+      },
+      {
+        "name": "BB ERZURUMSPOR"
+      },
+      {
+        "name": "BEŞİKTAŞ"
+      },
+      {
+        "name": "DENİZLİSPOR"
+      },
+      {
+        "name": "FATİH KARAGÜMRÜK"
+      },
+      {
+        "name": "FENERBAHÇE"
+      },
+      {
+        "name": "GALATASARAY"
+      },
+      {
+        "name": "GAZİANTEP FK"
+      },
+      {
+        "name": "GENÇLERBİRLİĞİ"
+      },
+      {
+        "name": "GÖZTEPE"
+      },
+      {
+        "name": "HATAYSPOR"
+      },
+      {
+        "name": "KASIMPAŞA"
+      },
+      {
+        "name": "KAYSERİSPOR"
+      },
+      {
+        "name": "KONYASPOR"
+      },
+      {
+        "name": "RİZESPOR"
+      },
+      {
+        "name": "SİVASSPOR"
+      },
+      {
+        "name": "TRABZONSPOR"
+      },
+      {
+        "name": "YENİ MALATYASPOR"
+      },
+      {
+        "name": "İSTANBUL BAŞAKŞEHİR"
+      }
+    ]
+  },
+  {
+    "leagueName": "Tinkoff Russian Premier Liga",
+    "teams": [
+      {
+        "name": "AKHMAT GROZNY"
+      },
+      {
+        "name": "ARSENAL TULA"
+      },
+      {
+        "name": "CSKA MOSKVA"
+      },
+      {
+        "name": "DINAMO MOSKVA"
+      },
+      {
+        "name": "KHIMKI"
+      },
+      {
+        "name": "KRASNODAR"
+      },
+      {
+        "name": "LOKOMOTIV MOSKVA"
+      },
+      {
+        "name": "ROSTOV"
+      },
+      {
+        "name": "ROTOR VOLGOGRAD"
+      },
+      {
+        "name": "RUBIN KAZAN"
+      },
+      {
+        "name": "SOCHI"
+      },
+      {
+        "name": "SPARTAK MOSKVA"
+      },
+      {
+        "name": "TAMBOV"
+      },
+      {
+        "name": "UFA"
+      },
+      {
+        "name": "URAL"
+      },
+      {
+        "name": "ZENIT"
+      }
+    ]
+  },
+  {
+    "leagueName": "Eredivisie",
+    "teams": [
+      {
+        "name": "ADO DEN HAAG"
+      },
+      {
+        "name": "AJAX"
+      },
+      {
+        "name": "AZ"
+      },
+      {
+        "name": "EMMEN"
+      },
+      {
+        "name": "FEYENOORD"
+      },
+      {
+        "name": "FORTUNA SITTARD"
+      },
+      {
+        "name": "GRONINGEN"
+      },
+      {
+        "name": "HEERENVEEN"
+      },
+      {
+        "name": "HERACLES"
+      },
+      {
+        "name": "PEC ZWOLLE"
+      },
+      {
+        "name": "PSV"
+      },
+      {
+        "name": "RKC WAALWIJK"
+      },
+      {
+        "name": "SPARTA ROTTERDAM"
+      },
+      {
+        "name": "TWENTE"
+      },
+      {
+        "name": "UTRECHT"
+      },
+      {
+        "name": "VITESSE"
+      },
+      {
+        "name": "VVV"
+      },
+      {
+        "name": "WILLEM II"
+      }
+    ]
+  },
+  {
+    "leagueName": "Jupiler Pro League",
+    "teams": [
+      {
+        "name": "ANDERLECHT"
+      },
+      {
+        "name": "ANTWERP"
+      },
+      {
+        "name": "BEERSCHOT"
+      },
+      {
+        "name": "CERCLE BRUGGE"
+      },
+      {
+        "name": "CLUB BRUGGE"
+      },
+      {
+        "name": "GENK"
+      },
+      {
+        "name": "GENT"
+      },
+      {
+        "name": "KAS EUPEN"
+      },
+      {
+        "name": "KORTRIJK"
+      },
+      {
+        "name": "KV OOSTENDE"
+      },
+      {
+        "name": "MECHELEN"
+      },
+      {
+        "name": "OH LEUVEN"
+      },
+      {
+        "name": "ROYAL EXCEL MOUSCRON"
+      },
+      {
+        "name": "SINT-TRUIDEN"
+      },
+      {
+        "name": "SPORTING CHARLEROI"
+      },
+      {
+        "name": "STANDARD LIÈGE"
+      },
+      {
+        "name": "WAASLAND-BEVEREN"
+      },
+      {
+        "name": "ZULTE-WAREGEM"
+      }
+    ]
+  },
+  {
+    "leagueName": "3F Superliga",
+    "teams": [
+      {
+        "name": "AAB"
+      },
+      {
+        "name": "AGF"
+      },
+      {
+        "name": "BRØNDBY"
+      },
+      {
+        "name": "HORSENS"
+      },
+      {
+        "name": "KØBENHAVN"
+      },
+      {
+        "name": "LYNGBY"
+      },
+      {
+        "name": "MIDTJYLLAND"
+      },
+      {
+        "name": "NORDSJÆLLAND"
+      },
+      {
+        "name": "OB"
+      },
+      {
+        "name": "RANDERS"
+      },
+      {
+        "name": "SØNDERJYSKE"
+      },
+      {
+        "name": "VEJLE"
+      }
+    ]
+  },
+  {
+    "leagueName": "Scottish Premiership",
+    "teams": [
+      {
+        "name": "ABERDEEN"
+      },
+      {
+        "name": "CELTIC"
+      },
+      {
+        "name": "DUNDEE UNITED"
+      },
+      {
+        "name": "HAMILTON ACADEMICAL"
+      },
+      {
+        "name": "HIBERNIAN"
+      },
+      {
+        "name": "KILMARNOCK"
+      },
+      {
+        "name": "LIVINGSTON"
+      },
+      {
+        "name": "MOTHERWELL"
+      },
+      {
+        "name": "RANGERS"
+      },
+      {
+        "name": "ROSS COUNTY"
+      },
+      {
+        "name": "ST. JOHNSTONE"
+      },
+      {
+        "name": "ST. MIRREN"
+      }
+    ]
+  },
+  {
+    "leagueName": "Raiffeisen Super League",
+    "teams": [
+      {
+        "name": "BASEL"
+      },
+      {
+        "name": "LAUSANNE SPORT"
+      },
+      {
+        "name": "LUGANO"
+      },
+      {
+        "name": "LUZERN"
+      },
+      {
+        "name": "SERVETTE"
+      },
+      {
+        "name": "SION"
+      },
+      {
+        "name": "ST. GALLEN"
+      },
+      {
+        "name": "VADUZ"
+      },
+      {
+        "name": "YOUNG BOYS"
+      },
+      {
+        "name": "ZÜRICH"
+      }
+    ]
+  },
+  {
+    "leagueName": "BRASILEIRÃO ASSAÍ 2020",
+    "teams": [
+      {
+        "name": "ATHLETICO PARANAENSE"
+      },
+      {
+        "name": "ATLÉTICO GO"
+      },
+      {
+        "name": "ATLÉTICO MINEIRO"
+      },
+      {
+        "name": "BAHIA"
+      },
+      {
+        "name": "BARRA FUNDA V *2"
+      },
+      {
+        "name": "BOTAFOGO"
+      },
+      {
+        "name": "CEARÁ"
+      },
+      {
+        "name": "CORINTHIANS"
+      },
+      {
+        "name": "CORITIBA"
+      },
+      {
+        "name": "FLAMENGO"
+      },
+      {
+        "name": "FLUMINENSE"
+      },
+      {
+        "name": "FORTALEZA"
+      },
+      {
+        "name": "GOIÁS"
+      },
+      {
+        "name": "GRÊMIO"
+      },
+      {
+        "name": "INTERNACIONAL"
+      },
+      {
+        "name": "RED BULL BRAGANTINO"
+      },
+      {
+        "name": "SANTOS"
+      },
+      {
+        "name": "SPORT RECIFE"
+      },
+      {
+        "name": "SÃO PAULO"
+      },
+      {
+        "name": "VASCO DA GAMA"
+      }
+    ]
+  },
+  {
+    "leagueName": "BRASILEIRÃO SÉRIE B 2020",
+    "teams": [
+      {
+        "name": "AMÉRICA MINEIRO"
+      },
+      {
+        "name": "AVAÍ"
+      },
+      {
+        "name": "BOTAFOGO SP"
+      },
+      {
+        "name": "BRASIL DE PELOTAS"
+      },
+      {
+        "name": "CHAPECOENSE"
+      },
+      {
+        "name": "CONFIANÇA"
+      },
+      {
+        "name": "CRB"
+      },
+      {
+        "name": "CRUZEIRO"
+      },
+      {
+        "name": "CSA"
+      },
+      {
+        "name": "CUIABÁ"
+      },
+      {
+        "name": "FIGUEIRENSE"
+      },
+      {
+        "name": "GUARANI"
+      },
+      {
+        "name": "JUVENTUDE"
+      },
+      {
+        "name": "NÁUTICO"
+      },
+      {
+        "name": "OESTE"
+      },
+      {
+        "name": "OPERÁRIO PR"
+      },
+      {
+        "name": "PARANÁ"
+      },
+      {
+        "name": "PONTE PRETA"
+      },
+      {
+        "name": "SAMPAIO CORRÊA"
+      },
+      {
+        "name": "VITÓRIA"
+      }
+    ]
+  },
+  {
+    "leagueName": "Liga Profesional de Fútbol",
+    "teams": [
+      {
+        "name": "ALDOSIVI"
+      },
+      {
+        "name": "ARGENTINOS JUNIORS"
+      },
+      {
+        "name": "ARSENAL"
+      },
+      {
+        "name": "ATLÉTICO TUCUMÁN"
+      },
+      {
+        "name": "BANFIELD"
+      },
+      {
+        "name": "BOCA JUNIORS"
+      },
+      {
+        "name": "CENTRAL CÓRDOBA SDE"
+      },
+      {
+        "name": "COLÓN"
+      },
+      {
+        "name": "DEFENSA Y JUSTICIA"
+      },
+      {
+        "name": "ESTUDIANTES"
+      },
+      {
+        "name": "GIMNASIA LA PLATA"
+      },
+      {
+        "name": "GODOY CRUZ"
+      },
+      {
+        "name": "HURACÁN"
+      },
+      {
+        "name": "INDEPENDIENTE"
+      },
+      {
+        "name": "LANÚS"
+      },
+      {
+        "name": "NEWELL'S OLD BOYS"
+      },
+      {
+        "name": "PATRONATO"
+      },
+      {
+        "name": "RACING CLUB"
+      },
+      {
+        "name": "RIVER PLATE"
+      },
+      {
+        "name": "ROSARIO CENTRAL"
+      },
+      {
+        "name": "SAN LORENZO"
+      },
+      {
+        "name": "TALLERES DE CÓRDOBA"
+      },
+      {
+        "name": "UNIÓN"
+      },
+      {
+        "name": "VÉLEZ SARSFIELD"
+      }
+    ]
+  },
+  {
+    "leagueName": "Campeonato PlanVital",
+    "teams": [
+      {
+        "name": "AUDAX ITALIANO"
+      },
+      {
+        "name": "COBRESAL"
+      },
+      {
+        "name": "COLO COLO"
+      },
+      {
+        "name": "COQUIMBO UNIDO"
+      },
+      {
+        "name": "CURICÓ UNIDO"
+      },
+      {
+        "name": "DEPORTES ANTOFAGASTA"
+      },
+      {
+        "name": "DEPORTES IQUIQUE"
+      },
+      {
+        "name": "DEPORTES LA SERENA"
+      },
+      {
+        "name": "EVERTON"
+      },
+      {
+        "name": "HUACHIPATO"
+      },
+      {
+        "name": "O'HIGGINS"
+      },
+      {
+        "name": "PALESTINO"
+      },
+      {
+        "name": "SANTIAGO WANDERERS"
+      },
+      {
+        "name": "U. DE CONCEPCIÓN"
+      },
+      {
+        "name": "UNIVERSIDAD CATÓLICA"
+      },
+      {
+        "name": "UNIVERSIDAD DE CHILE"
+      },
+      {
+        "name": "UNIÓN ESPAÑOLA"
+      },
+      {
+        "name": "UNIÓN LA CALERA"
+      }
+    ]
+  },
+  {
+    "leagueName": "Liga BetPlay DIMAYOR",
+    "teams": [
+      {
+        "name": "ALIANZA PETROLERA"
+      },
+      {
+        "name": "AMÉRICA DE CALI"
+      },
+      {
+        "name": "ATLÉTICO BUCARAMANGA"
+      },
+      {
+        "name": "ATLÉTICO NACIONAL"
+      },
+      {
+        "name": "BOYACÁ CHICÓ"
+      },
+      {
+        "name": "CÚCUTA DEPORTIVO"
+      },
+      {
+        "name": "DEPORTES TOLIMA"
+      },
+      {
+        "name": "DEPORTIVO CALI"
+      },
+      {
+        "name": "DEPORTIVO PASTO"
+      },
+      {
+        "name": "DEPORTIVO PEREIRA"
+      },
+      {
+        "name": "ENVIGADO"
+      },
+      {
+        "name": "INDEPENDIENTE MEDELLÍN"
+      },
+      {
+        "name": "JAGUARES DE CÓRDOBA"
+      },
+      {
+        "name": "JUNIOR"
+      },
+      {
+        "name": "LA EQUIDAD"
+      },
+      {
+        "name": "MILLONARIOS"
+      },
+      {
+        "name": "ONCE CALDAS"
+      },
+      {
+        "name": "PATRIOTAS BOYACÁ"
+      },
+      {
+        "name": "RIONEGRO"
+      },
+      {
+        "name": "SANTA FE"
+      }
+    ]
+  },
+  {
+    "leagueName": "CFA Super League",
+    "teams": [
+      {
+        "name": "BEIJING GUOAN"
+      },
+      {
+        "name": "CHONGQING DANGDAI LIFAN"
+      },
+      {
+        "name": "DALIAN PRO"
+      },
+      {
+        "name": "GUANGZHOU EVERGRANDE"
+      },
+      {
+        "name": "GUANGZHOU R&F"
+      },
+      {
+        "name": "HEBEI CHINA FORTUNE"
+      },
+      {
+        "name": "HENAN JIANYE"
+      },
+      {
+        "name": "JIANGSU SUNING"
+      },
+      {
+        "name": "QINGDAO HUANGHAI"
+      },
+      {
+        "name": "SHANDONG LUNENG TAISHAN"
+      },
+      {
+        "name": "SHANGHAI SHENHUA"
+      },
+      {
+        "name": "SHANGHAI SIPG"
+      },
+      {
+        "name": "SHENZHEN KAISA"
+      },
+      {
+        "name": "SHIJIAZHUANG EVERBRIGHT"
+      },
+      {
+        "name": "TIANJIN TEDA"
+      },
+      {
+        "name": "WUHAN ZALL"
+      }
+    ]
+  },
+  {
+    "leagueName": "TOYOTA Thai League",
+    "teams": [
+      {
+        "name": "BG PATHUM UNITED"
+      },
+      {
+        "name": "BURIRAM UNITED"
+      },
+      {
+        "name": "CHIANGRAI UNITED"
+      },
+      {
+        "name": "CHONBURI"
+      },
+      {
+        "name": "NAKHONRATCHASIMA MAZDA"
+      },
+      {
+        "name": "POLICE TERO"
+      },
+      {
+        "name": "PORT"
+      },
+      {
+        "name": "PT PRACHUAP"
+      },
+      {
+        "name": "RATCHABURI MITRPHOL"
+      },
+      {
+        "name": "RAYONG FC"
+      },
+      {
+        "name": "SAMUT PRAKAN CITY"
+      },
+      {
+        "name": "SCG MUANGTHONG UNITED"
+      },
+      {
+        "name": "SUKHOTHAI"
+      },
+      {
+        "name": "SUPHANBURI"
+      },
+      {
+        "name": "TRAT"
+      },
+      {
+        "name": "TRUE BANGKOK UNITED"
+      }
+    ]
+  },
+  {
+    "leagueName": "AFC Champions League",
+    "teams": [
+      {
+        "name": "AL AHLI SAUDI"
+      },
+      {
+        "name": "AL AIN"
+      },
+      {
+        "name": "AL DUHAIL"
+      },
+      {
+        "name": "AL HILAL"
+      },
+      {
+        "name": "AL NASSR"
+      },
+      {
+        "name": "AL SADD"
+      },
+      {
+        "name": "AL SHORTA"
+      },
+      {
+        "name": "AL TAAWOUN"
+      },
+      {
+        "name": "AL WAHDA"
+      },
+      {
+        "name": "BEIJING FC"
+      },
+      {
+        "name": "CHIANGRAI UNITED"
+      },
+      {
+        "name": "ESTEGHLAL"
+      },
+      {
+        "name": "F.C. TOKYO"
+      },
+      {
+        "name": "GUANGZHOU EVERGRANDE"
+      },
+      {
+        "name": "JEONBUK HYUNDAI MOTORS"
+      },
+      {
+        "name": "JOHOR DARUL TA'ZIM"
+      },
+      {
+        "name": "MELBOURNE VICTORY"
+      },
+      {
+        "name": "PAKHTAKOR"
+      },
+      {
+        "name": "PERSEPOLIS"
+      },
+      {
+        "name": "PERTH GLORY"
+      },
+      {
+        "name": "SEOUL"
+      },
+      {
+        "name": "SEPAHAN"
+      },
+      {
+        "name": "SHABAB AL AHLI DUBAI"
+      },
+      {
+        "name": "SHAHR KHODROU"
+      },
+      {
+        "name": "SHANGHAI SHENHUA"
+      },
+      {
+        "name": "SHANGHAI SIPG"
+      },
+      {
+        "name": "SHARJAH"
+      },
+      {
+        "name": "SUWON SAMSUNG BLUEWINGS"
+      },
+      {
+        "name": "SYDNEY"
+      },
+      {
+        "name": "ULSAN HYUNDAI"
+      },
+      {
+        "name": "VISSEL KOBE"
+      },
+      {
+        "name": "YOKOHAMA F. MARINOS"
+      }
+    ]
+  },
+  {
+    "leagueName": "Other European Leagues",
+    "teams": [
+      {
+        "name": "AEK ATHENS"
+      },
+      {
+        "name": "AVES V *2"
+      },
+      {
+        "name": "BAYER LEVERKUSEN"
+      },
+      {
+        "name": "CHARLTON RW *2"
+      },
+      {
+        "name": "DINAMO ZAGREB"
+      },
+      {
+        "name": "DYNAMO KYIV"
+      },
+      {
+        "name": "ESBJERG BH *2"
+      },
+      {
+        "name": "EXTREMADURA AR *2"
+      },
+      {
+        "name": "FC BAYERN MÜNCHEN"
+      },
+      {
+        "name": "HOBRO GB *2"
+      },
+      {
+        "name": "HULL OB *2"
+      },
+      {
+        "name": "LA CORUÑA AB *2"
+      },
+      {
+        "name": "LIVORNO G *2"
+      },
+      {
+        "name": "NEUCHÂTEL RS *2"
+      },
+      {
+        "name": "NUMANCIA R *2"
+      },
+      {
+        "name": "OLYMPIAKOS PIRAEUS"
+      },
+      {
+        "name": "ORENBURG BS *2"
+      },
+      {
+        "name": "PANATHINAIKOS"
+      },
+      {
+        "name": "PAOK"
+      },
+      {
+        "name": "PERUGIA BR *2"
+      },
+      {
+        "name": "SAMARA ZBS *2"
+      },
+      {
+        "name": "SANTANDER VB *2"
+      },
+      {
+        "name": "SCHALKE 04"
+      },
+      {
+        "name": "SETÚBAL V *2"
+      },
+      {
+        "name": "SHAKHTAR DONETSK"
+      },
+      {
+        "name": "SILKEBORG RH *2"
+      },
+      {
+        "name": "SLAVIA PRAHA"
+      },
+      {
+        "name": "SPARTA PRAHA"
+      },
+      {
+        "name": "STABIA GB *2"
+      },
+      {
+        "name": "THUN RW *2"
+      },
+      {
+        "name": "TRAPANI G *2"
+      },
+      {
+        "name": "WIGAN BW *2"
+      }
+    ]
+  },
+  {
+    "leagueName": "Other Latin American Teams",
+    "teams": [
+      {
+        "name": "ALIANZA LIMA"
+      },
+      {
+        "name": "SPORT BOYS"
+      },
+      {
+        "name": "SPORTING CRISTAL"
+      },
+      {
+        "name": "UNIVERSITARIO"
+      }
+    ]
+  },
+  {
+    "leagueName": "Other Asian Leagues",
+    "teams": [
+      {
+        "name": "BEIJING OB *2"
+      },
+      {
+        "name": "TIANJIN BY *2"
+      }
+    ]
+  },
+  {
+    "leagueName": "Europe",
+    "teams": [
+      {
+        "name": "ALBANIA"
+      },
+      {
+        "name": "ANDORRA"
+      },
+      {
+        "name": "ARMENIA"
+      },
+      {
+        "name": "AUSTRIA"
+      },
+      {
+        "name": "AZERBAIJAN"
+      },
+      {
+        "name": "BELARUS"
+      },
+      {
+        "name": "BELGIUM"
+      },
+      {
+        "name": "BOSNIA AND HERZEGOVINA"
+      },
+      {
+        "name": "BULGARIA"
+      },
+      {
+        "name": "CROATIA"
+      },
+      {
+        "name": "CYPRUS"
+      },
+      {
+        "name": "CZECH REPUBLIC"
+      },
+      {
+        "name": "DENMARK"
+      },
+      {
+        "name": "ENGLAND"
+      },
+      {
+        "name": "ESTONIA"
+      },
+      {
+        "name": "FAROE ISLANDS"
+      },
+      {
+        "name": "FINLAND"
+      },
+      {
+        "name": "FRANCE"
+      },
+      {
+        "name": "GEORGIA"
+      },
+      {
+        "name": "GERMANY"
+      },
+      {
+        "name": "GIBRALTAR"
+      },
+      {
+        "name": "GREECE"
+      },
+      {
+        "name": "HUNGARY"
+      },
+      {
+        "name": "ICELAND"
+      },
+      {
+        "name": "IRELAND"
+      },
+      {
+        "name": "ISRAEL"
+      },
+      {
+        "name": "ITALY"
+      },
+      {
+        "name": "KAZAKHSTAN"
+      },
+      {
+        "name": "KOSOVO"
+      },
+      {
+        "name": "LATVIA"
+      },
+      {
+        "name": "LIECHTENSTEIN"
+      },
+      {
+        "name": "LITHUANIA"
+      },
+      {
+        "name": "LUXEMBOURG"
+      },
+      {
+        "name": "MALTA"
+      },
+      {
+        "name": "MOLDOVA"
+      },
+      {
+        "name": "MONTENEGRO"
+      },
+      {
+        "name": "NETHERLANDS"
+      },
+      {
+        "name": "NORTH MACEDONIA"
+      },
+      {
+        "name": "NORTHERN IRELAND"
+      },
+      {
+        "name": "NORWAY"
+      },
+      {
+        "name": "POLAND"
+      },
+      {
+        "name": "PORTUGAL"
+      },
+      {
+        "name": "ROMANIA"
+      },
+      {
+        "name": "RUSSIA"
+      },
+      {
+        "name": "SAN MARINO"
+      },
+      {
+        "name": "SCOTLAND"
+      },
+      {
+        "name": "SERBIA"
+      },
+      {
+        "name": "SLOVAKIA"
+      },
+      {
+        "name": "SLOVENIA"
+      },
+      {
+        "name": "SPAIN"
+      },
+      {
+        "name": "SWEDEN"
+      },
+      {
+        "name": "SWITZERLAND"
+      },
+      {
+        "name": "TURKEY"
+      },
+      {
+        "name": "UKRAINE"
+      },
+      {
+        "name": "WALES"
+      }
+    ]
+  },
+  {
+    "leagueName": "Africa",
+    "teams": [
+      {
+        "name": "ALGERIA *3"
+      },
+      {
+        "name": "BURKINA FASO *3"
+      },
+      {
+        "name": "CAMEROON *4"
+      },
+      {
+        "name": "CÔTE D'IVOIRE *4"
+      },
+      {
+        "name": "EGYPT *4"
+      },
+      {
+        "name": "GHANA *4"
+      },
+      {
+        "name": "GUINEA *3"
+      },
+      {
+        "name": "MALI *3"
+      },
+      {
+        "name": "MOROCCO *4"
+      },
+      {
+        "name": "NIGERIA *3"
+      },
+      {
+        "name": "SENEGAL *3"
+      },
+      {
+        "name": "SOUTH AFRICA *3"
+      },
+      {
+        "name": "TUNISIA *3"
+      },
+      {
+        "name": "ZAMBIA *3"
+      }
+    ]
+  },
+  {
+    "leagueName": "North &amp; Central America",
+    "teams": [
+      {
+        "name": "COSTA RICA *4"
+      },
+      {
+        "name": "HONDURAS *4"
+      },
+      {
+        "name": "JAMAICA *3"
+      },
+      {
+        "name": "MEXICO *3"
+      },
+      {
+        "name": "PANAMA *4"
+      },
+      {
+        "name": "USA *3"
+      }
+    ]
+  },
+  {
+    "leagueName": "South America",
+    "teams": [
+      {
+        "name": "ARGENTINA"
+      },
+      {
+        "name": "BOLIVIA *4"
+      },
+      {
+        "name": "BRAZIL"
+      },
+      {
+        "name": "CHILE"
+      },
+      {
+        "name": "COLOMBIA *4"
+      },
+      {
+        "name": "ECUADOR *3"
+      },
+      {
+        "name": "PARAGUAY *4"
+      },
+      {
+        "name": "PERU"
+      },
+      {
+        "name": "URUGUAY *3"
+      },
+      {
+        "name": "VENEZUELA *4"
+      }
+    ]
+  },
+  {
+    "leagueName": "Asia-Oceania",
+    "teams": [
+      {
+        "name": "AUSTRALIA *4"
+      },
+      {
+        "name": "CHINA *3"
+      },
+      {
+        "name": "IRAN *3"
+      },
+      {
+        "name": "IRAQ *3"
+      },
+      {
+        "name": "JAPAN"
+      },
+      {
+        "name": "JORDAN *3"
+      },
+      {
+        "name": "KOREA DPR *3"
+      },
+      {
+        "name": "KUWAIT *3"
+      },
+      {
+        "name": "LEBANON *3"
+      },
+      {
+        "name": "NEW ZEALAND *4"
+      },
+      {
+        "name": "OMAN *3"
+      },
+      {
+        "name": "QATAR *3"
+      },
+      {
+        "name": "REPUBLIC OF KOREA *3"
+      },
+      {
+        "name": "SAUDI ARABIA *3"
+      },
+      {
+        "name": "THAILAND"
+      },
+      {
+        "name": "UNITED ARAB EMIRATES *3"
+      },
+      {
+        "name": "UZBEKISTAN *3"
+      }
+    ]
+  }
+]
